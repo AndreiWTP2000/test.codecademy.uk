@@ -1,0 +1,39 @@
+#banner{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/resources/img/pattern.webp");
+}
+
+#brush{
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
+
+
+.title{
+    font-family: Helvetica;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.bold{
+    font-weight: 1000;
+    font-size: 22px;
+}
+
+.link{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
